@@ -15,6 +15,7 @@
 ### 2. Jeremy Blum, 김찬웅, "익스플로링 아두이노", 한빛아카데미, 2014 : http://www.hanbit.co.kr/store/books/look.php?p_code=B8859824572
 ### 3. 온라인 앱개발 AppInventor : http://ai2.appinventor.mit.edu
 ### 4. 이종원, "SWedu, 앱인벤터", 한빛아카데미, 2018 : http://www.hanbit.co.kr/store/books/look.php?p_code=B7016134956
+### 5. 아두이노 기초-처음 접하는 아두이노 : https://www.youtube.com/watch?v=3e6GMI4Szwk&list=PLf8roV9OYDiHCOrnXIlbrzbeQ0pJsaH8v
 <br><br>
 
 # 연락처
