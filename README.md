@@ -12,8 +12,9 @@
 
 # 참고문헌
 ---------------------------------------------------------------
-## 코딩에 관하여
+## 코딩이란?
 ### 1. What Most Schools Don't Teach : https://www.youtube.com/watch?v=nKIu9yen5nc
+<br>
 
 ## 아두이노 실습
 ### 1. 아두이노 시뮬레이터-TinkerCAD: http://tinkercad.com
