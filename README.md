@@ -12,6 +12,9 @@
 
 # 참고문헌
 ---------------------------------------------------------------
+## 코딩에 관하여
+### 1. What Most Schools Don't Teach : https://www.youtube.com/watch?v=nKIu9yen5nc
+
 ## 아두이노 실습
 ### 1. 아두이노 시뮬레이터-TinkerCAD: http://tinkercad.com
 ### 2. Jeremy Blum, 김찬웅, "익스플로링 아두이노", 한빛아카데미, 2014 : http://www.hanbit.co.kr/store/books/look.php?p_code=B8859824572
