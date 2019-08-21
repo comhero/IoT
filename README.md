@@ -23,6 +23,7 @@
 ### 4. 아두이노 초급/중급/고급(폴나의 공방) : https://m.blog.naver.com/PostList.nhn?blogId=darknisia&categoryNo=27
 ### 5. 풀업 저항과 풀다운 저항: https://blog.xcoda.net/77
 ### 6. Human Auditory Range: http://www.cochlea.org/en/hear/human-auditory-range
+### 7. TV resolution confusion: https://www.cnet.com/news/4k-1080p-2k-uhd-8k-tv-resolutions-explained/
 <br>
 
 ## ○ 앱인벤터 실습
