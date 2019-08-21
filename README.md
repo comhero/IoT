@@ -21,6 +21,7 @@
 ### 2. Jeremy Blum, 김찬웅, "익스플로링 아두이노", 한빛아카데미, 2014 : http://www.hanbit.co.kr/store/books/look.php?p_code=B8859824572
 ### 3. 아두이노 기초-처음 접하는 아두이노 : https://www.youtube.com/watch?v=3e6GMI4Szwk&list=PLf8roV9OYDiHCOrnXIlbrzbeQ0pJsaH8v
 ### 4. 아두이노 초급/중급/고급(폴나의 공방) : https://m.blog.naver.com/PostList.nhn?blogId=darknisia&categoryNo=27
+### 5. 풀업 저항과 풀다운 저항: https://blog.xcoda.net/77
 <br>
 
 ## 앱인벤터 실습
